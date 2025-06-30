@@ -4,13 +4,13 @@ A genaithics code is information that a content creator chooses to add to their 
 More information on www.genaithics.org
 
 # The genaithics codes
-There are currently 4 genaithics codes available, either as a ![badge](https://github.com/Mathieu-genAI/genaithics/tree/main/img) or as text.
+There are currently 4 genaithics codes available, either as a [badge](https://github.com/Mathieu-genAI/genaithics/tree/main/img) or as text.
 
 | badge     | text     | description     |
 |--------------|---------------|---------------|
 | ![genaithics-H-Z](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-Z_208x100.png)    | `genaithics-H-Z`     | Zero IA used. 100% human based creation.|
-| ![genaithics-H-1-HZ](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-1-H_208x100.png)    | `genaithics-H-1-H`     | IA used for small and **minor corrections**. <br>**Final validation finale done by human.**|
-| ![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-2-H_208x100.png)    | `genaithics-H-2-H`     | AI used to improve **form and structure**, without altering content, intent or meaning. <br>**Final validation finale done by human**.|
+| ![genaithics-H-1-HZ](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-1-H_208x100.png)    | `genaithics-H-1-H`     | IA used for small and **minor corrections**. <br>**Final validation done by human.**|
+| ![genaithics-H-2-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_H-2-H_208x100.png)    | `genaithics-H-2-H`     | AI used to improve **form and structure**, without altering content, intent or meaning. <br>**Final validation done by human**.|
 | ![genaithics-3-H](https://github.com/Mathieu-genAI/genaithics/blob/main/img/genaithics_code_3-H_208x100.png)    | `genaithics-3-H`     | Content produced entirely by an AI, supervised by a human via “prompts”.<br>**Final validation done by human**.|
 
 _If in doubt, check the examples provided… and remember, if you’re unsure between two genaithics codes: <br>***the most important thing is transparency with your audience, which will make your approach ethical and responsible.***_
